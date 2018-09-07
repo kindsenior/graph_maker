@@ -1,3 +1,6 @@
 [submodule "skeleton_load_moment_calculation"]
 	path = skeleton_load_moment_calculation
 	url = git@github.com:kindsenior/skeleton_load_moment_calculation.git
+[submodule "joint_impact_calculation"]
+	path = joint_impact_calculation
+	url = git@github.com:kindsenior/joint_impact_calculation.git
